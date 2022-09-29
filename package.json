@@ -4,7 +4,11 @@
   "description": "First project on Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "pretest": "echo Pre-test",
+    "posttest": "echo Post-test",
+    "test": "echo I AM THE TEST",
+    "hello": "echo Hello World",
+    "cy-test": "cypress run"
   },
   "keywords": [],
   "author": "",

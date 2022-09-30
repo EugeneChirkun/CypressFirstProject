@@ -1,5 +1,5 @@
 # CypressFirstProject
-###Prerequisites
+### Prerequisites
 Ensure, that you have Node.js installed and Node Package Manager installed. Run in Command Prompt commands:
 ```shell
 node -v
@@ -7,7 +7,7 @@ node -v
 ```shell
 npm -v
 ```
-###Project installation and initialisation
+### Project installation and initialisation
 1. Download project to your local computer;
 2. Open Command Prompt in project folder;
 3. Run command to initialise project
@@ -27,7 +27,7 @@ npm cypress -v
 npm cypress verify
 ```
 
-###File upload in Cypress
+### File upload in Cypress
 
 Install plugin cypress-file-upload
 ```shell
@@ -52,7 +52,7 @@ Check this commands.js is imported in cypress/support/index.js
 import './commands';
 ```
 
-###File download in cypress
+### File download in cypress
 
 Install the module.
 

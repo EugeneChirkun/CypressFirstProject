@@ -1,5 +1,5 @@
 {
-  "name": "CypressFirstProject",
+  "name": "cypress_first_project",
   "version": "1.0.0",
   "description": "First project on Cypress",
   "main": "index.js",
@@ -11,7 +11,10 @@
     "cy-test": "cypress run"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Eugene Chirkun",
+    "email": "evgenijchirkun@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "cypress": "^10.8.0"

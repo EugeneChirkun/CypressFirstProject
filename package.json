@@ -11,15 +11,21 @@
     "cy-test": "cypress run"
   },
   "keywords": [],
-  "author": {
-    "name": "Eugene Chirkun",
-    "email": "evgenijchirkun@gmail.com"
-  },
+  "author": "Eugene Chirkun <evgenijchirkun@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^10.8.0"
+    "cypress": "^10.9.0",
+    "cypress-downloadfile": "^1.2.3"
   },
   "devDependencies": {
     "cypress-file-upload": "^5.0.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugeneChirkun/CypressFirstProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EugeneChirkun/CypressFirstProject/issues"
+  },
+  "homepage": "https://github.com/EugeneChirkun/CypressFirstProject#readme"
 }
